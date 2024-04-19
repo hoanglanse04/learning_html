@@ -1,0 +1,12 @@
+
+
+:root{
+    --main_bg--color : #774AD8;
+    --second_bg-color: #F3E9FF;
+    --second_text-color: #f1d186;
+    --main_text-color :#F7EFF8;
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+}
