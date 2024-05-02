@@ -1,0 +1,13 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Oleo+Script:wght@400;700&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Quicksand:wght@300..700&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
+:root{
+    --main--color : #EEA450;
+    --main_hover--color: #DD8622;
+    --main_bg--color: #2C2926;
+}
+
+body {
+    font-family: "Open Sans", sans-serif;
+    background-color:var(--main_bg--color);
+}
