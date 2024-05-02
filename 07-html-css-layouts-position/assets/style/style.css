@@ -99,32 +99,32 @@
   margin-bottom: 20px;
   color: #464d4d;
 }
-.highlight__card{
+.highlight__destination{
   display: flex;
   flex-direction: row;
   margin: 0 15%;
   justify-content: space-between;
 }
-.card__item{
+.destination__item{
   width: 30%;
   text-align: center;
   padding: 20px;
 }
-.highlight__card img{
+.highlight__destination img{
   height: 200px;
   width: 100%;
   object-fit: cover;
   border-radius: 10px;
 }
-.card__item--desc{
+.destination__item--desc{
   margin: 15px 0;
 }
-.card__item--desc span{
+.destination__item--desc span{
   font-size: 25px;
   font-weight: 700;
   color: #00A07E;
 }
-.card__item--desc h5{
+.destination__item--desc h5{
   font-size: 25px;
   font-weight: 500;
   color: #7C7B7B;
